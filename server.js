@@ -1,6 +1,6 @@
 'use strict';
 
-process.env.NODE_ENV = 'development';
+process.env.NODE_ENV = 'development1';
 
 var webpack = require('webpack');
 var WebpackDevServer = require('webpack-dev-server');
